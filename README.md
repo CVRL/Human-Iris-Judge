@@ -20,7 +20,7 @@ This paper presents a study that examines human performance in iris verification
 <a name="dataset"/></a>
 ### Dataset of Human Judgements
 
-(to be added before the Workshop presentation in March 2026)
+Instrictions on how to request a copy of the dataset will be added to the [CVRL webpage](https://cvrl.nd.edu/projects/data/) before the Workshop presentation in March 2026.
 
 <a name="citation"/></a>
 ### Citation
