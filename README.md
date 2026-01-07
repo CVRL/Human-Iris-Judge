@@ -1,8 +1,8 @@
 # Human Iris Judge #
 Official GitHub repository for the paper: Mahsa Mitcheff and Adam Czajka, "When Humans Judge Irises: Pupil Size Normalization as an Aid and Synthetic Irises as a Challenge," IEEE Workshop on Manipulation, Generative, Adversarial and Presentation Attacks In Biometrics (MGA-PAD), Tucson, AZ, March 7, 2026 **([ArXiv](xxx) | [IEEEXplore](xxx))**
 
-
-![synthetic_sample](https://github.com/CVRL/Human-Iris-Judge/assets/synthetic_sample.png)
+![synthetic_samples](https://github.com/CVRL/Human-Iris-Judge/blob/main/assets/synthetic_samples.png)
+⬆ Sample synthetic image pairs used in a short training phase before the actual experiment. Features labeled A (yellow) and B (green) indicate iris regions relevant for decision-making, whereas the highlighted areas illustrate regions that should be disregarded during evaluation.
 
 
 ### Table of contents
@@ -28,7 +28,7 @@ This paper presents a study that examines human performance in iris verification
 If you find this work useful in your research, please cite the following paper:
 
 ```
-@inproceedings{mitcheff2024privacysafeirispresentationattack,
+@inproceedings{Mitcheff_MGAPAD_2026,
       title={When Humans Judge Irises: Pupil Size Normalization as an Aid and Synthetic Irises as a Challenge}, 
       author={Mahsa Mitcheff and Adam Czajka},
       year={2026},
