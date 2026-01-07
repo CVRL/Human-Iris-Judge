@@ -2,7 +2,7 @@
 Official GitHub repository for the paper: Mahsa Mitcheff and Adam Czajka, "When Humans Judge Irises: Pupil Size Normalization as an Aid and Synthetic Irises as a Challenge," IEEE Workshop on Manipulation, Generative, Adversarial and Presentation Attacks In Biometrics (MGA-PAD), Tucson, AZ, March 7, 2026 **([ArXiv](xxx) | [IEEEXplore](xxx))**
 
 ![synthetic_samples](https://github.com/CVRL/Human-Iris-Judge/blob/main/assets/synthetic_samples.png)
-Sample synthetic image pairs used in a short training phase before the actual experiment. Features labeled A (yellow) and B (green) indicate iris regions relevant for decision-making, whereas the highlighted areas illustrate regions that should be disregarded during evaluation.
+⬆ Sample synthetic image pairs used in a short training phase before the actual experiment. Features labeled A (yellow) and B (green) indicate iris regions relevant for decision-making, whereas the highlighted areas illustrate regions that should be disregarded during evaluation.
 
 
 ### Table of contents
