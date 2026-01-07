@@ -28,7 +28,7 @@ This paper presents a study that examines human performance in iris verification
 If you find this work useful in your research, please cite the following paper:
 
 ```
-@inproceedings{mitcheff2024privacysafeirispresentationattack,
+@inproceedings{Mitcheff_MGAPAD_2026,
       title={When Humans Judge Irises: Pupil Size Normalization as an Aid and Synthetic Irises as a Challenge}, 
       author={Mahsa Mitcheff and Adam Czajka},
       year={2026},
